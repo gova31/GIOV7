@@ -1,0 +1,47 @@
+day8
+*website*:website is collection of project files(html.css,java) which cane be rendered in the browser.
+*browser*:browser is a tool used for running the server side applications(browsers).
+*html*:hypertext markup language(used for the structuring the website).
+         |->linking the webpages.
+         |->the text which is linked to another page is called hypertext.
+*CSS*:it is used to make the page colourful and stylish.
+*javascript*:it is used to develop the functionality of website.
+*tag*:tag is a keyword which is enclosed in inside the angular beackets which have some abilitys.
+   |->opemtag.
+       |-><html lang="em">(is the tag doesnt have any slash in between the tag then it is known as open tag.)
+   |->closed tag.
+       |-></html>(is the tag  have any slash in between the tag then it is known as closed tag.)
+   |->self closed tag.
+       |->img tag
+*html tag is root tag execution of the code starts from here.
+<head>{
+    1.we can add the heading for webpage.
+    2.we can give the neta information to the browser.
+    3.we can link the external files.(<link rel="stylesheet" href="">)
+                                              |->adding css file to html
+}
+<body>{
+
+}
+DIFF TAGS
+1.HEADING TAGS{
+    <H1>
+    <H2>
+    <H3>
+    <H4>
+    <H5>
+    <H5>
+}
+*element*:is nothing but the content along with the tags.
+*HR TAG*:DRAWS A HORIZONTAL LINE IN THE WEBPAGE.
+TYPESS OF EXECUTION:
+1.GO LIVE
+2.RIGHT CLICK ON THE CODE CLICK PREVIEW.
+3.GO TO THE FOLDER AND DOUBLE CLICK ON THE FILE.
+*PARAGRAPh*:<p>
+;cihg;oqaiweh;auoh;uioaeh;'oguqh
+sd;kjgha;ekh;a;aj;aj;a</p>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*CSS*
+there are 3 ways to link css
+1.inlinecss:
