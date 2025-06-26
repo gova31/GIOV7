@@ -1,0 +1,61 @@
+/* body{
+    background-color: rgb(117, 92, 92);
+}
+.a{
+    color:aqua;
+    font-family: cursive;
+    font-size: 20px;
+}
+.b{
+    color:blue
+     
+    
+ }
+  /* // above code is about the chaning the text color by using .class  */ 
+/* 
+ #a{
+    color: red;
+    font-family: cursive;
+}
+#b{
+    color: blue;
+    font-family: cursive;
+} */
+ 
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+
+}
+h1{
+    position: static
+}
+h2{
+    position: relative;
+    left: 50px;
+    top: 50;
+} ///////////////////////////////////////////////////////////////////////////////////////////////////// 
+ */
+
+ div{
+    height: 70px;
+    width: 70px;
+    background-color: red;
+ }
+ @media (max-width: 600px){
+    div{
+        height: 70px;
+        width: 100%;
+        background-color: green;
+    }
+}
+
+@media (min-width: 750px){
+    div{
+        height: 70px;
+        width: 100%;
+        background-color: blue;
+    }
+}
